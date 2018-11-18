@@ -11,3 +11,6 @@ lib/play-spring.jar
 bin/
 bin/
 lib
+/eclipse/
+/tmp/
+/.DS_Store

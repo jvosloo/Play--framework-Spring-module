@@ -1,4 +1,4 @@
-self: play -> spring 1.0.5
+self: play -> spring 1.0.6
 
 require:
     - play
